@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654196058 source:c:\users\ansam\desktop\hashingprject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+	<stdbool.h>
+	<math.h>
+
+1654192458 source:c:\users\ansam\desktop\data structure\hashingprject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+	<stdbool.h>
+	<math.h>
+
